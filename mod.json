@@ -1,9 +1,15 @@
 {
-    "geode": "3.0.0",
-    "id": "yourname.frame-analysis",
+    "geode": "5.10.1",
+    "gd": {
+        "android": "2.2081",
+        "win": "2.2081",
+        "mac": "2.2081",
+        "ios": "2.2081"
+    },
+    "id": "NaNGD.frame-analysis",
     "version": "v1.0.0",
     "name": "High-Accuracy Frame Analysis",
-    "developer": "YourName",
+    "developer": "NaNGD,Zilko,etc",
     "description": "Live frame window HUD, input history, precision metrics, and sound feedback.",
     "repository": "https://github.com/YourName/frame-analysis",
     "dependencies": [
