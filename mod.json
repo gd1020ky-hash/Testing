@@ -1,5 +1,5 @@
 {
-    "geode": "v5.10.1",
+    "geode": "5.10.1",
     "gd": {
         "android": "2.2081",
         "win": "2.2081",
@@ -11,7 +11,7 @@
     "name": "High-Accuracy Frame Analysis",
     "developer": "NaNGD",
     "description": "Live frame window HUD, input history, precision metrics, and sound feedback.",
-    "repository": "https://github.com/NaNGD/frame-analysis",
+    "repository": "https://github.com/gd1020ky-hash/Testing",
     "dependencies": [
         {
             "id": "geode.loader",
