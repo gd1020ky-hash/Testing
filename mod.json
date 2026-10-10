@@ -14,11 +14,6 @@
     "repository": "https://github.com/gd1020ky-hash/Testing",
     "dependencies": [
         {
-            "id": "geode.loader",
-            "version": ">=1.0.0",
-            "importance": "required"
-        },
-        {
             "id": "geode.node-ids",
             "version": ">=1.0.0",
             "importance": "required"
