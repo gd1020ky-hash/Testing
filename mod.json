@@ -1,0 +1,16 @@
+{
+    "geode": "3.0.0",
+    "id": "yourname.frame-analysis",
+    "version": "v1.0.0",
+    "name": "High-Accuracy Frame Analysis",
+    "developer": "YourName",
+    "description": "Live frame window HUD, input history, precision metrics, and sound feedback.",
+    "repository": "https://github.com/YourName/frame-analysis",
+    "dependencies": [
+        {
+            "id": "geode.loader",
+            "version": ">=1.0.0",
+            "importance": "required"
+        }
+    ]
+}
